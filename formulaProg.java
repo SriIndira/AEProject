@@ -1,7 +1,7 @@
 
 import java.util.Scanner; 
 
-class formulaProg{
+class formulaProg {
     public static void main(String[] args){
         System.out.println(" Enter Config Type >>>>  ");
         formulaProg exe = new formulaProg();
